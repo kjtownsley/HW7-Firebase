@@ -1,0 +1,39 @@
+body {
+    background-image: url("https://www.tripsavvy.com/thmb/M1dK7DFGMJqiPC7qUrFcKwkaJBQ=/950x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Grand-Central-Station-c-Andrew-Burton-Getty-Images-57716ef63df78cb62c83b0d7.jpg");
+    background-size: cover;
+}
+
+.container {
+    background-color: rgb(59, 41, 41);
+}
+
+.jumbotron {
+    color: white;
+    background-color: #01405e;
+
+}
+
+.panel-heading-custom {
+    background-color: #01405e; 
+}
+
+.panel-custom {
+    background-color: #01405e; 
+}
+
+.panel-title {
+    color: white;
+    background-color: #01405e; 
+}
+
+.panel-body-custom {
+    color: white;
+}
+
+.btn-primary {
+    color: white;
+    background-color: #01405e;
+    border-color: white;
+    font-weight: bold;
+}
+
